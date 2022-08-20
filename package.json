@@ -4,7 +4,8 @@
   "description": "n8n node to interact with an Apprise instance and send notifications.",
   "keywords": [
     "n8n-community-node-package",
-    "apprise"
+    "apprise",
+    "n8n-node-athon"
   ],
   "license": "MIT",
   "homepage": "",

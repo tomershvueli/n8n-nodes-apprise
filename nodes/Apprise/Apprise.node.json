@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-base.apprise",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Developer Tools", "Notifications"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/caronc/apprise"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://github.com/caronc/apprise"
+			}
+		]
+	}
+}

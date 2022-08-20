@@ -6,7 +6,7 @@ import {
 
 export class AppriseApi implements ICredentialType {
 	name = 'appriseApi';
-	displayName = 'Apprise API Instance';
+	displayName = 'Apprise Instance API';
 	documentationUrl = 'https://github.com/caronc/apprise';
 	properties: INodeProperties[] = [
 		{
